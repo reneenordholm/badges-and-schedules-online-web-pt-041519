@@ -27,5 +27,3 @@ def printer(attendees)
   assign_rooms(attendees).each {|data| puts data}
 end
 
-
-#array.each {|item| puts "The current array item is: #{item}"}
